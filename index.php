@@ -1,7 +1,9 @@
+<?php
+?>
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Shrinath Nayak</title>
+      <title>Zemoz</title>
       <link rel="stylesheet" type="text/css" href="style.css">
       <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
       <link rel="stylesheet" type="text/css" href="css/animate.css">
