@@ -23,10 +23,10 @@
          <center><img class="center animated rollIn" src="img/ava.png" alt="avatar"></center>
          <hr>
          <div class="name">
-            Shrinath Nayak
+            Hazem Tarek
          </div>
-         <p class="subtitle">Student</p>
-         <p class="location"><i class="fa fa-map-marker"> </i><a href="http://www.canaraengineering.in/" target="_blank"> Canara Engineering College</a>
+         <p class="subtitle">IT-Specalist</p>
+         <p class="location"><i class="fa fa-map-marker"> </i><a href= "https://www.linkedin.com/in/hazemtarek9595/" target="_blank"> Egypt </a>
          </p>
          <p class="icons animated pulse">
             <a href="https://twitter.com/shrinath_nayak" target="_blank">
