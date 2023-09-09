@@ -63,7 +63,7 @@
       </div>
       <!--footer-->
       <footer class="animated fadeIn">
-         &copy; 2017. Shrinath Nayak.
+         &copy; 2017. Hazem Tarek.
       </footer>
    </body>
 </html>
